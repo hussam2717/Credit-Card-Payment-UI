@@ -20,3 +20,9 @@ Live Demo -
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┣ 📄 script.js
+
+📈 Future Improvements
+Add real-time card number formatting (**** **** **** ****)
+Add validation (expiry date, CVV)
+Integrate payment gateway (Stripe/Razorpay)
+Add card type detection (Visa, MasterCard)
