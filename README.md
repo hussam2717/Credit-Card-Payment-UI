@@ -10,3 +10,8 @@ Live Demo -
 - Cardholder name input
 - Clean and minimal design
 - "Pay Now" button for submission
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
