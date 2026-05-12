@@ -16,12 +16,12 @@ A clean and modern credit card payment form built using HTML, CSS, and JavaScrip
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+## 📂 Project Structure.
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┣ 📄 script.js
 
-## 📈 Future Improvements
+## 📈 Future Improvements.
 Add real-time card number formatting (**** **** **** ****)
 Add validation (expiry date, CVV)
 Integrate payment gateway (Stripe/Razorpay)
