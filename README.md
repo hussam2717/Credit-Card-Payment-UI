@@ -21,11 +21,11 @@ A clean and modern credit card payment form built using HTML, CSS, and JavaScrip
 ┣ 📄 style.css
 ┣ 📄 script.js
 
-📈 Future Improvements
+## 📈 Future Improvements
 Add real-time card number formatting (**** **** **** ****)
 Add validation (expiry date, CVV)
 Integrate payment gateway (Stripe/Razorpay)
 Add card type detection (Visa, MasterCard)
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and improve the UI or functionality.
